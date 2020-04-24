@@ -5,6 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
+	border: 0px;
 	background: none;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
@@ -20,6 +21,7 @@ h1, h2, h3 {
 	font-weight: 300;
 	color: #2D2D2D;
 }
+
 
 h2 {
 	padding: 0px 0px 30px 0px;
@@ -208,3 +210,22 @@ ul.style2 a {
   background: #202020;
   color: #fff;
 }
+
+.about {
+  background: #fff;
+  box-shadow: 6px 5px 12px 0px rgba(0, 89, 198, 0.81);;
+}
+.about .fa {
+  padding-right: 6px;
+padding-left: 6px;
+}
+.about {
+  padding: 20px;
+  margin-top: 10px;
+}
+.bluee {
+color: #06386d;
+}
+
+
+
